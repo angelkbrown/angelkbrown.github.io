@@ -1,11 +1,7 @@
 # Site settings
 title: angel k brown 
 email: angelkbrown@gmail.com 
-description: > # this means to ignore newlines until "baseurl:"
-  I'm a software developer. I do mostly
-  Ruby development, but I've done other stuff in the past. 
-  I took a little hiatus from most social
-  media and other Internet-y things for a few years. (Sometimes you need a break.) But it's good to be back. I missed y'all!
+description: ""
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://angelkbrown.com" # the base hostname & protocol for your site
 twitter_username: _akbrown
